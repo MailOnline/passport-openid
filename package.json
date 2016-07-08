@@ -32,7 +32,7 @@
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport-strategy": "1.x.x",
-    "openid": "1.x.x"
+    "openid": "2.0.1"
   },
   "devDependencies": {
     "vows": "^0.8.1"
